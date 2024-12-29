@@ -7,15 +7,15 @@
 
 - 🌱 I’m currently learning **LLM: Transformer, GPT, and Attentions**
 
-- 👨‍💻 All of my projects are available at [www.yifangchen.com](www.yifangchen.com)
+- 👨‍💻 All of my projects are available at [https://www.yifangchen.com](https://www.yifangchen.com)
 
-- 📝 I regularly write articles on [www.yifangchen.com](www.yifangchen.com)
+- 📝 I regularly write articles on [https://www.yifangchen.com](https://www.yifangchen.com)
 
 - 💬 Ask me about ** Transformer,GPT,Attentions**
 
 - 📫 How to reach me **michaelchen12138@gmail.com**
 
-- 📄 Know about my experiences [www.yifangchen.com](www.yifangchen.com)
+- 📄 Know about my experiences [https://www.yifangchen.com](https://www.yifangchen.com)
 
 - ⚡ Fun fact **I am a Boxer, Brazillian Jiu-Jitsu Player**
 
