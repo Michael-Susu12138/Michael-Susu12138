@@ -7,15 +7,15 @@
 
 - 🌱 I’m currently learning **LLM: Transformer, GPT, and Attentions**
 
-- 👨‍💻 All of my projects are available at [https://yifang-chen.vercel.app/](https://yifang-chen.vercel.app/)
+- 👨‍💻 All of my projects are available at [www.yifangchen.com](www.yifangchen.com)
 
-- 📝 I regularly write articles on [https://yifang-chen.vercel.app/](https://yifang-chen.vercel.app/)
+- 📝 I regularly write articles on [www.yifangchen.com](www.yifangchen.com)
 
 - 💬 Ask me about ** Transformer,GPT,Attentions**
 
 - 📫 How to reach me **michaelchen12138@gmail.com**
 
-- 📄 Know about my experiences [https://yifang-chen.vercel.app/](https://yifang-chen.vercel.app/)
+- 📄 Know about my experiences [www.yifangchen.com](www.yifangchen.com)
 
 - ⚡ Fun fact **I am a Boxer, Brazillian Jiu-Jitsu Player**
 
